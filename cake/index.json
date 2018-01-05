@@ -8,6 +8,11 @@
       "title": "Step 1 - Execute build script",
       "text": "step1.md",
       "code": "code.sh"
+    },
+    {
+      "title": "Step 2 - Add tasks",
+      "text": "step2.md",
+      "code": "code.sh"
     }],
     "intro": {
       "text": "intro.md"
